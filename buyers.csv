@@ -1,0 +1,1279 @@
+buyer_id,sex,occupation,year_of_birth,phone_n,channel
+1,M,Civil servant,1962,064-652-8882,Friends
+2,M,Self-employed,1975,074-463-5451,Friends
+3,F,Clerk,1975,094-719-8155,Friends
+4,F,Civil servant,1967,043-495-8736,Internet
+5,M,Student,1985,027-676-4836,Internet
+6,F,Clerk,1975,047-392-7932,Outdoor advertising
+7,M,Self-employed,1984,061-682-3541,Friends
+8,F,Self-employed,1978,084-587-1275,Friends
+9,M,Clerk,1986,093-248-1394,Outdoor advertising
+10,M,Civil servant,1972,024-569-8134,Radio
+11,M,Clerk,1971,049-583-8154,Friends
+12,M,Civil servant,1985,043-871-2763,Friends
+13,F,Clerk,1968,035-582-5432,Internet
+14,F,Student,1979,046-979-1339,Outdoor advertising
+15,F,Unemployed,1982,055-234-8684,Outdoor advertising
+16,M,Clerk,1985,045-779-7213,Radio
+17,F,Clerk,1983,014-691-9271,Incidental
+18,M,Clerk,1963,098-461-6347,Internet
+19,M,Clerk,1970,025-634-1384,Outdoor advertising
+20,M,Unemployed,1980,095-835-8187,Outdoor advertising
+21,F,Self-employed,1991,068-554-2356,Internet
+22,F,Unemployed,1978,025-874-4852,Internet
+23,F,Clerk,1962,074-264-3628,Internet
+24,F,Clerk,1964,033-772-7145,Friends
+25,F,Self-employed,1987,057-377-5276,Friends
+26,M,Civil servant,1973,029-434-2827,Internet
+27,M,Clerk,1984,082-814-8649,Outdoor advertising
+28,M,Civil servant,1975,099-382-2153,Friends
+29,F,Student,1985,048-434-5286,Outdoor advertising
+30,F,Civil servant,1966,033-949-4935,Radio
+31,M,Student,1974,043-797-3854,Friends
+32,F,Self-employed,1968,093-243-2472,Outdoor advertising
+33,F,Student,1976,075-442-2587,Outdoor advertising
+34,F,Clerk,1980,056-441-9461,Internet
+35,M,Unemployed,1965,044-875-6695,Friends
+36,F,Civil servant,1980,015-423-6948,Outdoor advertising
+37,M,Clerk,1972,061-856-7841,Internet
+38,M,Clerk,1984,067-386-1969,Friends
+39,M,Student,1981,069-982-2357,Outdoor advertising
+40,F,Clerk,1978,061-783-4599,Outdoor advertising
+41,F,Self-employed,1970,058-285-7728,Friends
+42,F,Clerk,1975,081-566-8857,Incidental
+43,M,Student,1988,051-274-1169,Friends
+44,F,Clerk,1983,013-976-2553,Incidental
+45,F,Unemployed,1961,065-712-2942,Internet
+46,F,Unemployed,1966,092-932-5934,Radio
+47,M,Clerk,1991,067-824-8315,Outdoor advertising
+48,F,Student,1964,074-684-2128,Outdoor advertising
+49,F,Unemployed,1968,021-233-5577,Radio
+50,F,Clerk,1971,068-443-1139,Outdoor advertising
+51,F,Clerk,1980,022-445-7423,Outdoor advertising
+52,M,Unemployed,1964,044-232-4856,Outdoor advertising
+53,F,Clerk,1962,042-755-7798,Friends
+54,M,Civil servant,1977,052-192-4715,Outdoor advertising
+55,F,Unemployed,1982,086-856-1426,Friends
+56,M,Clerk,1973,061-727-2936,Outdoor advertising
+57,F,Civil servant,1971,039-294-6927,Internet
+58,F,Self-employed,1981,015-338-4923,Incidental
+59,F,Clerk,1986,046-996-4193,Incidental
+60,F,Student,1988,072-851-3468,Outdoor advertising
+61,M,Unemployed,1975,029-767-3392,Radio
+62,M,Clerk,1982,026-541-9527,Internet
+63,F,Unemployed,1969,052-593-1341,Outdoor advertising
+64,M,Clerk,1972,078-142-5346,Friends
+65,M,Student,1968,074-213-3686,Outdoor advertising
+66,M,Self-employed,1969,017-865-6945,Outdoor advertising
+67,F,Self-employed,1985,042-344-7626,Friends
+68,F,Civil servant,1979,099-542-6435,Outdoor advertising
+69,F,Unemployed,1977,054-328-6445,Outdoor advertising
+70,M,Self-employed,1983,021-271-1715,Incidental
+71,F,Self-employed,1987,094-977-6262,Outdoor advertising
+72,M,Clerk,1966,022-571-5452,Outdoor advertising
+73,M,Self-employed,1967,031-213-7991,Internet
+74,F,Civil servant,1961,038-312-7315,Friends
+75,M,Clerk,1968,055-415-1156,Outdoor advertising
+76,F,Unemployed,1990,089-153-8336,Incidental
+77,M,Unemployed,1986,034-338-8671,Outdoor advertising
+78,M,Student,1988,093-314-4746,Internet
+79,F,Self-employed,1987,021-863-7636,Outdoor advertising
+80,M,Clerk,1984,054-423-2721,Outdoor advertising
+81,M,Self-employed,1964,018-993-8685,Outdoor advertising
+82,M,Civil servant,1979,062-175-7142,Friends
+83,M,Clerk,1987,053-893-2958,Outdoor advertising
+84,M,Student,1983,071-594-1438,Outdoor advertising
+85,F,Clerk,1989,088-679-4873,Friends
+86,F,Clerk,1969,017-858-3885,Internet
+87,M,Clerk,1960,091-387-5149,Outdoor advertising
+88,F,Clerk,1977,033-966-2747,Friends
+89,F,Student,1985,079-231-8942,Friends
+90,M,Self-employed,1964,024-813-8565,Incidental
+91,M,Clerk,1971,072-915-2419,Friends
+92,M,Self-employed,1964,065-197-2443,Radio
+93,M,Clerk,1977,037-212-1616,Friends
+94,F,Clerk,1987,059-783-8123,Incidental
+95,M,Unemployed,1964,089-473-6773,Radio
+96,M,Student,1986,076-783-6925,Outdoor advertising
+97,F,Clerk,1980,056-886-3642,Incidental
+98,F,Clerk,1984,054-245-6361,Friends
+99,M,Student,1984,094-713-8632,Outdoor advertising
+100,F,Unemployed,1989,043-512-3214,Friends
+101,F,Student,1980,021-543-4214,Friends
+102,F,Clerk,1975,085-353-6882,Internet
+103,M,Clerk,1977,088-638-9138,Friends
+104,M,Clerk,1991,065-144-8423,Internet
+105,F,Civil servant,1986,018-626-8377,Incidental
+106,F,Self-employed,1976,025-753-8145,Incidental
+107,M,Student,1962,076-935-6431,Incidental
+108,M,Clerk,1979,038-364-9986,Internet
+109,F,Clerk,1992,064-343-9736,Radio
+110,F,Self-employed,1965,055-457-9556,Internet
+111,F,Student,1961,098-233-4319,Outdoor advertising
+112,F,Clerk,1991,093-161-2648,Outdoor advertising
+113,F,Clerk,1984,022-337-2461,Friends
+114,M,Clerk,1987,081-361-1859,Outdoor advertising
+115,M,Self-employed,1972,036-219-2656,Outdoor advertising
+116,F,Self-employed,1964,085-828-2965,Incidental
+117,F,Unemployed,1986,062-918-6658,Internet
+118,F,Clerk,1969,097-866-7862,Radio
+119,F,Student,1990,043-532-5135,Incidental
+120,F,Unemployed,1990,019-289-5838,Friends
+121,F,Student,1976,071-629-7968,Radio
+122,F,Civil servant,1976,094-618-6166,Internet
+123,M,Clerk,1975,069-882-5971,Incidental
+124,F,Unemployed,1971,036-297-5537,Outdoor advertising
+125,F,Clerk,1978,056-463-5578,Outdoor advertising
+126,F,Clerk,1978,094-637-8115,Friends
+127,F,Self-employed,1987,026-679-7199,Radio
+128,F,Self-employed,1981,021-992-3731,Outdoor advertising
+129,M,Civil servant,1970,027-122-5986,Friends
+130,F,Civil servant,1976,067-682-2985,Radio
+131,M,Clerk,1982,035-358-8392,Incidental
+132,M,Self-employed,1966,071-965-6518,Radio
+133,F,Clerk,1988,044-247-4228,Friends
+134,M,Clerk,1978,061-358-4885,Outdoor advertising
+135,F,Self-employed,1967,032-265-6962,Outdoor advertising
+136,F,Civil servant,1969,023-893-4944,Outdoor advertising
+137,F,Self-employed,1972,084-141-2511,Friends
+138,F,Student,1987,087-889-7528,Incidental
+139,F,Student,1990,091-724-2791,Friends
+140,M,Civil servant,1992,053-229-3122,Friends
+141,F,Self-employed,1969,034-319-5382,Outdoor advertising
+142,F,Clerk,1981,042-149-3534,Internet
+143,F,Unemployed,1991,077-315-6266,Outdoor advertising
+144,M,Student,1962,056-193-9192,Outdoor advertising
+145,F,Clerk,1962,012-834-2124,Internet
+146,F,Self-employed,1970,044-681-3457,Outdoor advertising
+147,M,Clerk,1982,066-241-1965,Outdoor advertising
+148,M,Civil servant,1975,081-458-1341,Outdoor advertising
+149,F,Clerk,1979,012-168-2365,Incidental
+150,F,Unemployed,1962,098-675-8738,Outdoor advertising
+151,F,Self-employed,1974,057-126-2178,Outdoor advertising
+152,F,Unemployed,1967,012-579-7754,Internet
+153,M,Clerk,1991,089-693-7551,Internet
+154,M,Clerk,1960,087-449-2584,Outdoor advertising
+155,F,Clerk,1961,071-443-8142,Outdoor advertising
+156,M,Unemployed,1989,078-196-3315,Outdoor advertising
+157,M,Self-employed,1988,094-237-1151,Internet
+158,F,Clerk,1986,099-546-2168,Incidental
+159,M,Clerk,1979,049-195-3996,Radio
+160,F,Unemployed,1962,022-627-4157,Friends
+161,F,Unemployed,1974,069-965-7525,Outdoor advertising
+162,M,Self-employed,1985,021-471-9672,Radio
+163,M,Civil servant,1971,066-568-9819,Internet
+164,F,Self-employed,1978,021-958-1597,Outdoor advertising
+165,M,Student,1984,072-862-5691,Internet
+166,F,Civil servant,1976,018-192-7966,Incidental
+167,M,Clerk,1964,066-158-1181,Outdoor advertising
+168,F,Self-employed,1972,087-361-1667,Friends
+169,F,Civil servant,1969,088-266-8589,Outdoor advertising
+170,M,Self-employed,1976,094-762-1913,Incidental
+171,M,Student,1978,015-578-2131,Friends
+172,M,Student,1961,041-481-3191,Internet
+173,F,Clerk,1990,072-877-5832,Friends
+174,M,Clerk,1965,096-467-4335,Outdoor advertising
+175,M,Student,1973,079-464-7331,Internet
+176,M,Self-employed,1960,045-848-2559,Radio
+177,F,Clerk,1991,019-416-6347,Friends
+178,F,Self-employed,1982,091-261-2224,Radio
+179,F,Civil servant,1988,078-437-7728,Outdoor advertising
+180,F,Self-employed,1980,094-755-5711,Friends
+181,F,Student,1989,026-645-8165,Internet
+182,M,Clerk,1964,048-291-9155,Incidental
+183,F,Clerk,1969,067-717-5339,Internet
+184,F,Clerk,1991,041-874-9994,Outdoor advertising
+185,F,Student,1978,037-157-8965,Outdoor advertising
+186,F,Clerk,1973,033-257-9839,Outdoor advertising
+187,M,Clerk,1965,082-872-4283,Outdoor advertising
+188,M,Clerk,1967,032-264-6296,Outdoor advertising
+189,M,Clerk,1985,045-665-4793,Outdoor advertising
+190,F,Self-employed,1973,093-553-4213,Incidental
+191,M,Clerk,1983,066-623-8382,Internet
+192,M,Civil servant,1962,086-956-1172,Friends
+193,M,Unemployed,1986,054-524-4773,Outdoor advertising
+194,M,Unemployed,1978,084-331-1116,Incidental
+195,F,Clerk,1973,084-623-9172,Internet
+196,M,Civil servant,1973,039-797-9953,Friends
+197,M,Unemployed,1984,083-962-7372,Friends
+198,M,Clerk,1987,036-435-5748,Friends
+199,F,Clerk,1992,094-118-8988,Friends
+200,F,Student,1960,034-586-1532,Internet
+201,F,Self-employed,1965,084-374-8993,Outdoor advertising
+202,F,Clerk,1983,085-193-1248,Friends
+203,M,Clerk,1971,065-612-6655,Internet
+204,F,Clerk,1977,046-674-2568,Internet
+205,F,Unemployed,1963,042-293-9863,Outdoor advertising
+206,F,Student,1972,017-973-6981,Outdoor advertising
+207,F,Clerk,1984,048-331-6199,Outdoor advertising
+208,F,Self-employed,1991,017-395-6987,Outdoor advertising
+209,M,Self-employed,1971,052-454-2821,Internet
+210,F,Unemployed,1983,061-411-5449,Outdoor advertising
+211,F,Clerk,1989,073-857-4798,Radio
+212,F,Unemployed,1982,041-738-1292,Outdoor advertising
+213,F,Unemployed,1976,072-136-9883,Outdoor advertising
+214,M,Civil servant,1990,031-917-6153,Friends
+215,F,Civil servant,1975,095-448-4672,Outdoor advertising
+216,F,Clerk,1974,079-726-2982,Outdoor advertising
+217,F,Clerk,1979,053-678-3352,Outdoor advertising
+218,M,Civil servant,1983,032-464-1121,Outdoor advertising
+219,F,Student,1968,057-715-4186,Internet
+220,M,Clerk,1980,043-973-6725,Outdoor advertising
+221,F,Student,1981,038-451-4198,Internet
+222,M,Self-employed,1974,079-867-9789,Outdoor advertising
+223,F,Clerk,1968,039-854-6765,Internet
+224,F,Clerk,1981,051-954-4984,Internet
+225,F,Unemployed,1978,045-843-5975,Internet
+226,F,Self-employed,1977,055-887-6166,Outdoor advertising
+227,F,Clerk,1963,036-657-3734,Outdoor advertising
+228,F,Clerk,1966,058-159-6242,Internet
+229,M,Clerk,1982,068-838-6579,Outdoor advertising
+230,F,Unemployed,1990,029-866-3818,Friends
+231,F,Clerk,1963,088-553-2283,Outdoor advertising
+232,M,Clerk,1977,077-917-8715,Incidental
+233,M,Self-employed,1970,071-517-9716,Friends
+234,F,Clerk,1964,012-549-4969,Outdoor advertising
+235,M,Clerk,1966,027-731-3453,Internet
+236,M,Student,1976,092-276-3799,Outdoor advertising
+237,M,Clerk,1983,066-173-2539,Incidental
+238,F,Clerk,1967,064-399-6323,Internet
+239,M,Self-employed,1960,011-257-9635,Radio
+240,F,Self-employed,1969,055-138-7444,Outdoor advertising
+241,F,Unemployed,1970,096-498-6336,Friends
+242,F,Clerk,1972,029-938-5439,Outdoor advertising
+243,F,Student,1961,083-174-6281,Internet
+244,F,Self-employed,1987,079-499-1199,Friends
+245,M,Clerk,1985,012-659-1517,Outdoor advertising
+246,M,Student,1985,019-395-1946,Friends
+247,F,Self-employed,1964,018-525-3759,Outdoor advertising
+248,F,Clerk,1961,062-333-3393,Outdoor advertising
+249,M,Student,1991,016-275-3162,Friends
+250,M,Student,1976,072-487-5426,Outdoor advertising
+251,F,Clerk,1986,039-773-1624,Outdoor advertising
+252,F,Clerk,1962,058-782-5849,Radio
+253,F,Student,1977,093-448-4931,Outdoor advertising
+254,F,Clerk,1975,069-925-4385,Outdoor advertising
+255,M,Clerk,1978,094-849-3631,Internet
+256,F,Clerk,1983,014-591-5477,Friends
+257,M,Civil servant,1981,063-929-4918,Outdoor advertising
+258,M,Student,1977,077-287-5796,Incidental
+259,F,Student,1970,059-262-7514,Internet
+260,M,Civil servant,1964,072-819-1633,Internet
+261,F,Clerk,1984,053-861-2969,Radio
+262,M,Student,1970,093-631-2638,Incidental
+263,M,Student,1986,072-917-2782,Outdoor advertising
+264,F,Clerk,1975,065-399-1414,Internet
+265,F,Self-employed,1980,078-832-3182,Outdoor advertising
+266,F,Clerk,1973,034-275-8783,Friends
+267,F,Clerk,1977,089-915-7898,Outdoor advertising
+268,M,Self-employed,1976,098-913-7298,Outdoor advertising
+269,M,Clerk,1984,034-697-1922,Outdoor advertising
+270,F,Clerk,1974,025-876-8623,Outdoor advertising
+271,F,Clerk,1981,036-215-8356,Outdoor advertising
+272,F,Clerk,1966,063-269-8674,Internet
+273,F,Self-employed,1972,016-125-1287,Radio
+274,M,Self-employed,1974,032-567-5835,Friends
+275,F,Clerk,1987,086-258-4433,Friends
+276,F,Clerk,1970,083-448-7426,Outdoor advertising
+277,F,Self-employed,1986,074-234-3795,Friends
+278,F,Self-employed,1960,052-334-5418,Internet
+279,F,Self-employed,1974,046-342-1211,Outdoor advertising
+280,F,Unemployed,1982,056-995-4526,Friends
+281,F,Clerk,1984,085-799-5237,Outdoor advertising
+282,F,Student,1981,087-865-7825,Outdoor advertising
+283,M,Clerk,1975,035-271-2125,Friends
+284,F,Student,1977,018-767-5252,Outdoor advertising
+285,F,Self-employed,1985,021-285-3171,Outdoor advertising
+286,F,Self-employed,1973,033-478-3351,Outdoor advertising
+287,M,Clerk,1964,071-366-7798,Internet
+288,M,Clerk,1964,031-711-2649,Outdoor advertising
+289,F,Student,1973,047-623-5642,Internet
+290,M,Unemployed,1990,055-239-4348,Incidental
+291,F,Student,1968,045-772-8873,Outdoor advertising
+292,F,Student,1979,023-345-2268,Outdoor advertising
+293,F,Clerk,1984,056-599-9499,Outdoor advertising
+294,F,Student,1966,058-153-9862,Outdoor advertising
+295,F,Clerk,1985,072-514-3882,Radio
+296,F,Student,1969,062-156-2956,Outdoor advertising
+297,F,Self-employed,1965,075-311-9649,Incidental
+298,M,Unemployed,1972,054-974-9742,Internet
+299,M,Clerk,1961,079-936-8324,Friends
+300,F,Clerk,1981,087-595-2653,Friends
+301,F,Civil servant,1972,067-155-5895,Outdoor advertising
+302,M,Civil servant,1967,028-623-1177,Outdoor advertising
+303,M,Self-employed,1983,019-332-6716,Friends
+304,F,Clerk,1987,014-314-5835,Incidental
+305,F,Clerk,1961,086-961-4392,Outdoor advertising
+306,F,Clerk,1977,081-189-2439,Incidental
+307,F,Clerk,1981,018-345-2716,Internet
+308,M,Clerk,1963,022-291-6249,Outdoor advertising
+309,F,Self-employed,1988,023-839-1526,Outdoor advertising
+310,M,Civil servant,1975,047-939-6685,Outdoor advertising
+311,F,Self-employed,1973,097-581-6344,Outdoor advertising
+312,F,Civil servant,1976,089-618-2998,Internet
+313,F,Clerk,1976,083-423-7647,Radio
+314,F,Clerk,1964,094-523-1781,Internet
+315,F,Clerk,1964,041-651-3121,Incidental
+316,M,Clerk,1974,079-428-3351,Radio
+317,M,Self-employed,1966,092-437-7312,Incidental
+318,M,Clerk,1971,055-233-9986,Outdoor advertising
+319,F,Unemployed,1981,082-929-1896,Internet
+320,M,Clerk,1976,059-195-2912,Outdoor advertising
+321,F,Unemployed,1986,055-826-6477,Radio
+322,M,Unemployed,1991,057-643-2537,Internet
+323,M,Student,1989,072-774-3283,Internet
+324,F,Self-employed,1989,086-611-1876,Internet
+325,F,Self-employed,1983,075-882-2765,Outdoor advertising
+326,F,Civil servant,1975,092-317-1433,Outdoor advertising
+327,F,Clerk,1980,047-363-4879,Outdoor advertising
+328,M,Clerk,1980,011-366-1488,Outdoor advertising
+329,M,Student,1989,097-679-3524,Outdoor advertising
+330,F,Self-employed,1975,087-158-6653,Internet
+331,F,Self-employed,1975,049-212-7423,Radio
+332,F,Self-employed,1967,049-677-8513,Outdoor advertising
+333,M,Clerk,1989,062-246-9191,Outdoor advertising
+334,F,Self-employed,1970,037-955-1919,Friends
+335,M,Clerk,1976,021-249-1671,Friends
+336,F,Civil servant,1971,097-271-5597,Outdoor advertising
+337,M,Student,1992,083-775-6819,Outdoor advertising
+338,M,Student,1960,058-176-9582,Friends
+339,F,Clerk,1961,038-178-3844,Radio
+340,F,Self-employed,1992,011-714-4673,Radio
+341,F,Civil servant,1968,069-648-2646,Friends
+342,F,Self-employed,1987,085-696-9932,Incidental
+343,M,Self-employed,1964,045-764-6477,Outdoor advertising
+344,F,Self-employed,1989,067-616-7446,Friends
+345,M,Clerk,1982,043-554-1478,Internet
+346,M,Civil servant,1979,088-863-5694,Outdoor advertising
+347,M,Clerk,1973,075-615-5621,Internet
+348,F,Clerk,1990,068-599-5718,Internet
+349,M,Unemployed,1981,044-942-7134,Internet
+350,M,Self-employed,1972,084-463-7971,Friends
+351,F,Unemployed,1984,014-764-5394,Internet
+352,F,Self-employed,1961,037-684-5857,Internet
+353,F,Student,1973,029-525-4633,Radio
+354,M,Clerk,1979,093-742-2466,Outdoor advertising
+355,M,Clerk,1963,011-272-8739,Outdoor advertising
+356,F,Self-employed,1985,038-295-3225,Outdoor advertising
+357,F,Self-employed,1976,033-411-9594,Outdoor advertising
+358,F,Civil servant,1968,039-585-4766,Friends
+359,M,Student,1992,072-883-9747,Friends
+360,F,Clerk,1968,086-422-4218,Friends
+361,M,Civil servant,1980,077-828-4324,Outdoor advertising
+362,F,Clerk,1992,087-881-1237,Outdoor advertising
+363,F,Clerk,1961,015-749-7385,Incidental
+364,M,Unemployed,1991,046-861-5815,Incidental
+365,F,Clerk,1989,044-335-9195,Internet
+366,F,Self-employed,1991,016-156-4621,Radio
+367,M,Civil servant,1977,014-711-9175,Incidental
+368,M,Self-employed,1979,039-838-3162,Outdoor advertising
+369,M,Civil servant,1978,077-632-1798,Outdoor advertising
+370,F,Clerk,1967,027-667-7985,Outdoor advertising
+371,F,Clerk,1978,047-113-1689,Outdoor advertising
+372,M,Unemployed,1966,052-848-9997,Outdoor advertising
+373,M,Clerk,1982,097-799-4525,Radio
+374,F,Clerk,1977,099-963-8852,Outdoor advertising
+375,F,Student,1961,038-532-6359,Friends
+376,M,Civil servant,1983,081-648-7813,Outdoor advertising
+377,M,Unemployed,1978,034-139-6175,Outdoor advertising
+378,M,Clerk,1967,033-129-6374,Outdoor advertising
+379,F,Civil servant,1985,089-154-8554,Outdoor advertising
+380,F,Clerk,1980,036-514-9681,Outdoor advertising
+381,F,Unemployed,1968,043-129-3675,Outdoor advertising
+382,M,Self-employed,1970,038-598-7321,Outdoor advertising
+383,F,Unemployed,1976,077-849-7594,Outdoor advertising
+384,F,Clerk,1985,048-472-2758,Radio
+385,F,Unemployed,1984,091-142-8716,Internet
+386,M,Self-employed,1967,019-375-6362,Friends
+387,F,Unemployed,1972,041-411-4448,Friends
+388,M,Clerk,1965,018-439-4154,Outdoor advertising
+389,M,Clerk,1987,082-818-7411,Internet
+390,F,Self-employed,1971,066-835-3728,Internet
+391,M,Student,1978,022-667-4226,Internet
+392,F,Student,1972,047-824-3386,Outdoor advertising
+393,F,Clerk,1971,065-817-3236,Friends
+394,F,Student,1983,017-617-1873,Radio
+395,F,Clerk,1968,019-668-4521,Radio
+396,M,Clerk,1969,091-173-4859,Outdoor advertising
+397,M,Clerk,1967,011-948-7123,Internet
+398,F,Clerk,1960,045-852-9941,Outdoor advertising
+399,M,Clerk,1962,034-372-5938,Friends
+400,F,Clerk,1977,093-554-5951,Friends
+401,F,Clerk,1966,076-912-6759,Friends
+402,F,Clerk,1967,074-929-1592,Outdoor advertising
+403,M,Clerk,1976,032-546-9613,Outdoor advertising
+404,F,Self-employed,1982,048-459-7121,Incidental
+405,M,Unemployed,1975,085-884-1178,Friends
+406,M,Clerk,1970,079-451-4481,Incidental
+407,M,Student,1976,071-457-3421,Friends
+408,F,Student,1982,024-756-6651,Outdoor advertising
+409,M,Clerk,1960,074-121-9665,Friends
+410,M,Clerk,1981,091-921-9969,Outdoor advertising
+411,F,Self-employed,1980,039-612-4297,Internet
+412,M,Clerk,1992,077-654-2588,Incidental
+413,M,Clerk,1974,074-489-8262,Radio
+414,M,Self-employed,1991,046-393-3968,Friends
+415,M,Self-employed,1976,017-424-9644,Radio
+416,F,Student,1974,094-812-9891,Friends
+417,M,Self-employed,1970,079-581-4827,Outdoor advertising
+418,M,Student,1976,049-818-8315,Outdoor advertising
+419,F,Clerk,1988,055-496-9296,Radio
+420,F,Clerk,1978,019-657-7642,Outdoor advertising
+421,F,Clerk,1984,031-329-7456,Outdoor advertising
+422,M,Clerk,1980,034-669-9495,Internet
+423,F,Clerk,1990,037-478-1927,Outdoor advertising
+424,F,Clerk,1980,093-841-3593,Friends
+425,F,Clerk,1985,039-158-5322,Radio
+426,M,Clerk,1967,088-727-3862,Friends
+427,F,Self-employed,1985,017-399-5163,Outdoor advertising
+428,F,Self-employed,1970,091-643-3538,Internet
+429,M,Student,1986,012-694-5338,Friends
+430,F,Self-employed,1982,078-546-8619,Outdoor advertising
+431,M,Unemployed,1988,018-691-3148,Radio
+432,F,Self-employed,1977,073-167-8627,Outdoor advertising
+433,M,Student,1972,088-176-7732,Outdoor advertising
+434,F,Clerk,1980,099-531-1652,Radio
+435,M,Clerk,1971,012-738-1219,Friends
+436,M,Clerk,1973,044-567-6685,Outdoor advertising
+437,M,Clerk,1961,021-834-9694,Friends
+438,M,Clerk,1984,035-364-3253,Internet
+439,F,Clerk,1971,087-956-3532,Radio
+440,M,Self-employed,1974,028-335-7596,Outdoor advertising
+441,F,Clerk,1965,045-898-3986,Outdoor advertising
+442,M,Clerk,1991,088-978-5971,Outdoor advertising
+443,F,Clerk,1985,029-435-4268,Radio
+444,M,Self-employed,1985,033-549-7773,Friends
+445,M,Student,1980,084-957-7293,Radio
+446,M,Clerk,1962,076-143-5961,Outdoor advertising
+447,M,Clerk,1977,081-355-5974,Outdoor advertising
+448,M,Self-employed,1974,029-259-6837,Outdoor advertising
+449,F,Student,1965,024-774-8597,Internet
+450,M,Self-employed,1976,056-497-9536,Friends
+451,F,Unemployed,1965,012-714-1942,Outdoor advertising
+452,F,Unemployed,1989,043-486-6897,Friends
+453,F,Student,1963,091-671-9462,Outdoor advertising
+454,F,Self-employed,1991,057-894-4777,Internet
+455,F,Unemployed,1983,051-534-2473,Outdoor advertising
+456,F,Clerk,1968,024-581-1374,Outdoor advertising
+457,F,Self-employed,1978,056-294-4892,Incidental
+458,M,Self-employed,1988,089-931-1271,Outdoor advertising
+459,F,Student,1967,051-792-1214,Outdoor advertising
+460,F,Student,1967,014-993-4557,Internet
+461,F,Unemployed,1991,083-661-4871,Outdoor advertising
+462,F,Student,1991,072-737-9654,Friends
+463,F,Civil servant,1991,013-481-5795,Radio
+464,F,Self-employed,1981,023-153-1337,Friends
+465,F,Clerk,1975,059-726-2468,Friends
+466,F,Clerk,1987,059-668-9378,Friends
+467,M,Clerk,1960,044-836-8882,Friends
+468,M,Clerk,1977,055-655-1524,Radio
+469,M,Student,1974,097-577-4986,Incidental
+470,F,Self-employed,1985,017-934-2212,Outdoor advertising
+471,M,Self-employed,1960,023-333-6774,Internet
+472,F,Self-employed,1961,071-556-4415,Outdoor advertising
+473,F,Clerk,1975,099-294-2177,Outdoor advertising
+474,M,Clerk,1962,084-136-5112,Friends
+475,F,Clerk,1981,053-231-3296,Outdoor advertising
+476,F,Student,1987,019-762-6332,Radio
+477,F,Clerk,1973,076-778-5688,Outdoor advertising
+478,F,Self-employed,1975,064-211-2164,Outdoor advertising
+479,M,Self-employed,1991,035-511-8198,Radio
+480,F,Clerk,1983,041-846-4936,Outdoor advertising
+481,F,Self-employed,1966,061-127-1292,Outdoor advertising
+482,M,Clerk,1968,017-947-7939,Friends
+483,F,Civil servant,1982,029-868-1559,Internet
+484,F,Civil servant,1991,073-482-2944,Friends
+485,M,Clerk,1992,016-311-9612,Incidental
+486,M,Clerk,1962,095-165-5728,Friends
+487,M,Student,1986,026-757-2434,Internet
+488,F,Clerk,1968,051-217-9247,Incidental
+489,F,Clerk,1990,029-186-2513,Outdoor advertising
+490,F,Student,1980,033-925-1226,Outdoor advertising
+491,F,Student,1990,024-936-6692,Outdoor advertising
+492,M,Civil servant,1965,019-177-3687,Outdoor advertising
+493,F,Clerk,1983,039-842-3276,Incidental
+494,M,Unemployed,1975,082-455-6263,Incidental
+495,M,Self-employed,1981,097-393-3121,Radio
+496,F,Self-employed,1991,058-412-7938,Outdoor advertising
+497,F,Clerk,1963,053-771-2925,Internet
+498,F,Self-employed,1992,017-543-4666,Outdoor advertising
+499,M,Unemployed,1977,032-528-8676,Internet
+500,M,Clerk,1966,093-191-4759,Outdoor advertising
+501,M,Unemployed,1982,095-472-8422,Internet
+502,F,Clerk,1982,024-713-6163,Friends
+503,M,Student,1970,041-471-8313,Incidental
+504,F,Civil servant,1964,022-692-1137,Incidental
+505,F,Self-employed,1991,093-476-8839,Friends
+506,M,Clerk,1968,089-656-5221,Outdoor advertising
+507,M,Clerk,1981,092-328-5545,Incidental
+508,F,Clerk,1977,045-718-4999,Internet
+509,F,Self-employed,1976,069-638-2843,Outdoor advertising
+510,F,Student,1985,074-962-5421,Friends
+511,F,Self-employed,1989,096-118-5941,Outdoor advertising
+512,F,Self-employed,1970,089-895-1652,Internet
+513,M,Student,1974,078-121-9293,Outdoor advertising
+514,F,Civil servant,1989,023-335-2359,Outdoor advertising
+515,M,Civil servant,1963,091-375-8232,Outdoor advertising
+516,M,Civil servant,1967,041-535-9446,Internet
+517,F,Clerk,1984,032-527-9938,Outdoor advertising
+518,F,Self-employed,1973,051-773-6542,Outdoor advertising
+519,F,Student,1966,011-158-8664,Outdoor advertising
+520,F,Self-employed,1988,092-173-9868,Internet
+521,M,Unemployed,1960,023-137-1294,Friends
+522,F,Civil servant,1961,048-324-2235,Incidental
+523,F,Clerk,1990,096-454-3712,Internet
+524,F,Unemployed,1967,028-364-8338,Friends
+525,F,Student,1965,021-118-2955,Friends
+526,F,Clerk,1986,094-956-6491,Outdoor advertising
+527,M,Unemployed,1976,094-427-3664,Friends
+528,M,Self-employed,1968,057-538-3162,Outdoor advertising
+529,M,Student,1983,082-187-2696,Radio
+530,F,Unemployed,1974,089-653-4864,Outdoor advertising
+531,M,Clerk,1979,055-586-8627,Incidental
+532,F,Self-employed,1981,024-942-6349,Outdoor advertising
+533,F,Self-employed,1960,093-744-1161,Internet
+534,F,Clerk,1989,015-923-8629,Friends
+535,M,Clerk,1992,075-486-3396,Incidental
+536,M,Clerk,1976,044-938-6927,Outdoor advertising
+537,F,Student,1972,013-569-2846,Outdoor advertising
+538,M,Self-employed,1962,072-334-1743,Friends
+539,F,Self-employed,1986,049-221-9599,Radio
+540,F,Self-employed,1961,093-722-4477,Friends
+541,F,Clerk,1973,027-113-3711,Friends
+542,M,Civil servant,1968,044-582-9449,Internet
+543,M,Clerk,1977,075-269-9691,Outdoor advertising
+544,M,Clerk,1960,088-111-1229,Outdoor advertising
+545,F,Clerk,1985,049-893-4237,Incidental
+546,M,Unemployed,1982,037-992-1265,Friends
+547,M,Civil servant,1970,059-453-1891,Outdoor advertising
+548,M,Student,1983,087-269-9365,Outdoor advertising
+549,F,Student,1992,083-764-6828,Outdoor advertising
+550,F,Self-employed,1986,044-693-7539,Friends
+551,F,Student,1984,019-643-7896,Outdoor advertising
+552,F,Clerk,1990,033-992-8575,Radio
+553,F,Unemployed,1974,095-381-9221,Outdoor advertising
+554,F,Clerk,1980,029-433-8677,Outdoor advertising
+555,F,Self-employed,1979,017-647-7926,Outdoor advertising
+556,M,Student,1978,031-264-2619,Internet
+557,F,Self-employed,1970,026-493-4789,Internet
+558,M,Clerk,1967,049-772-6858,Internet
+559,F,Self-employed,1965,035-926-1873,Friends
+560,F,Clerk,1963,046-544-4845,Outdoor advertising
+561,M,Clerk,1983,059-555-7676,Outdoor advertising
+562,F,Civil servant,1979,042-556-3635,Radio
+563,F,Clerk,1973,043-436-5655,Outdoor advertising
+564,F,Clerk,1974,032-214-4389,Outdoor advertising
+565,M,Clerk,1966,026-777-1263,Outdoor advertising
+566,F,Clerk,1960,023-689-6276,Outdoor advertising
+567,M,Clerk,1971,019-713-4697,Outdoor advertising
+568,F,Clerk,1975,074-828-4398,Outdoor advertising
+569,M,Self-employed,1967,023-418-6257,Outdoor advertising
+570,F,Clerk,1975,083-478-6665,Friends
+571,M,Self-employed,1974,097-144-3649,Outdoor advertising
+572,F,Civil servant,1973,053-482-9913,Internet
+573,F,Clerk,1977,022-836-8264,Outdoor advertising
+574,F,Clerk,1992,045-189-5865,Internet
+575,F,Clerk,1990,087-424-4652,Outdoor advertising
+576,M,Clerk,1983,043-488-9748,Outdoor advertising
+577,F,Self-employed,1967,097-824-1712,Radio
+578,M,Clerk,1975,042-956-1513,Friends
+579,F,Student,1967,021-924-5767,Outdoor advertising
+580,F,Civil servant,1961,094-278-8944,Friends
+581,F,Clerk,1962,095-119-4984,Outdoor advertising
+582,M,Clerk,1978,067-883-9986,Internet
+583,F,Self-employed,1962,049-935-5798,Incidental
+584,F,Student,1984,054-671-4268,Outdoor advertising
+585,M,Clerk,1987,017-753-3121,Internet
+586,M,Self-employed,1988,032-713-1676,Friends
+587,F,Student,1982,079-929-1538,Friends
+588,F,Unemployed,1989,019-551-9887,Friends
+589,M,Self-employed,1962,028-285-4754,Radio
+590,M,Clerk,1963,045-517-6891,Internet
+591,F,Self-employed,1974,084-594-8766,Outdoor advertising
+592,F,Clerk,1965,035-179-2735,Outdoor advertising
+593,F,Civil servant,1972,052-617-1181,Radio
+594,F,Self-employed,1986,082-691-5799,Incidental
+595,F,Unemployed,1974,099-197-4775,Internet
+596,M,Clerk,1974,044-182-9334,Outdoor advertising
+597,M,Civil servant,1976,023-722-1218,Outdoor advertising
+598,M,Civil servant,1977,096-117-4333,Internet
+599,M,Clerk,1979,037-572-2925,Friends
+600,F,Clerk,1975,014-251-1425,Internet
+601,F,Civil servant,1976,047-324-1598,Internet
+602,M,Unemployed,1975,024-753-6244,Internet
+603,F,Clerk,1978,069-992-9895,Outdoor advertising
+604,M,Student,1974,025-497-5579,Incidental
+605,M,Civil servant,1967,093-153-2541,Incidental
+606,M,Student,1969,028-272-9653,Friends
+607,F,Student,1980,068-148-4644,Outdoor advertising
+608,F,Clerk,1977,046-851-1642,Outdoor advertising
+609,M,Clerk,1969,023-753-7459,Outdoor advertising
+610,F,Student,1992,086-544-6346,Outdoor advertising
+611,F,Clerk,1990,019-157-7458,Incidental
+612,F,Civil servant,1971,038-926-1534,Internet
+613,F,Student,1964,079-818-5574,Radio
+614,M,Unemployed,1972,022-271-6594,Internet
+615,M,Clerk,1987,015-965-7322,Outdoor advertising
+616,F,Clerk,1975,062-854-1596,Outdoor advertising
+617,F,Self-employed,1967,028-649-4262,Friends
+618,M,Self-employed,1980,031-872-2694,Outdoor advertising
+619,F,Unemployed,1983,033-162-7384,Outdoor advertising
+620,M,Clerk,1963,077-168-3882,Friends
+621,M,Self-employed,1987,022-315-2319,Internet
+622,F,Self-employed,1961,055-969-4761,Outdoor advertising
+623,F,Civil servant,1977,095-444-3219,Friends
+624,F,Unemployed,1982,085-399-5713,Incidental
+625,F,Self-employed,1981,036-946-5391,Radio
+626,M,Clerk,1967,016-154-8926,Internet
+627,M,Self-employed,1968,072-548-1943,Radio
+628,F,Clerk,1964,071-791-9759,Internet
+629,F,Student,1983,023-186-8946,Internet
+630,F,Clerk,1967,073-734-1988,Internet
+631,F,Unemployed,1973,022-893-4116,Internet
+632,F,Clerk,1980,044-471-2569,Outdoor advertising
+633,F,Clerk,1964,036-554-6981,Outdoor advertising
+634,M,Unemployed,1965,085-489-3538,Internet
+635,M,Clerk,1968,042-983-5956,Friends
+636,M,Self-employed,1979,094-445-4583,Outdoor advertising
+637,M,Clerk,1961,064-574-3663,Outdoor advertising
+638,F,Self-employed,1964,028-871-6222,Friends
+639,M,Clerk,1989,092-763-7985,Outdoor advertising
+640,F,Clerk,1976,034-272-6528,Incidental
+641,F,Self-employed,1976,015-153-4987,Radio
+642,F,Self-employed,1972,071-995-5853,Outdoor advertising
+643,F,Self-employed,1973,039-587-5852,Internet
+644,M,Self-employed,1983,093-962-5545,Friends
+645,F,Student,1985,049-328-2952,Internet
+646,F,Clerk,1962,073-958-4298,Internet
+647,F,Self-employed,1970,017-454-3548,Outdoor advertising
+648,M,Student,1972,084-964-9477,Friends
+649,F,Self-employed,1973,031-698-6337,Incidental
+650,M,Clerk,1976,018-461-5766,Incidental
+651,F,Self-employed,1980,058-868-3345,Outdoor advertising
+652,M,Student,1988,075-493-1151,Outdoor advertising
+653,F,Clerk,1989,031-598-2131,Outdoor advertising
+654,F,Clerk,1962,075-861-8788,Friends
+655,F,Student,1989,064-493-2743,Internet
+656,M,Civil servant,1975,024-748-2165,Radio
+657,F,Unemployed,1991,036-134-9279,Incidental
+658,F,Student,1979,098-937-9459,Incidental
+659,F,Self-employed,1980,082-518-8269,Outdoor advertising
+660,F,Clerk,1981,021-342-8287,Outdoor advertising
+661,F,Student,1964,029-331-2993,Friends
+662,F,Unemployed,1963,061-735-4151,Friends
+663,F,Student,1967,079-575-6764,Outdoor advertising
+664,M,Self-employed,1971,038-762-4269,Internet
+665,F,Self-employed,1991,055-126-9374,Internet
+666,M,Clerk,1983,096-237-9764,Friends
+667,F,Clerk,1965,081-193-6482,Friends
+668,F,Clerk,1981,041-119-1736,Outdoor advertising
+669,M,Clerk,1976,063-156-8774,Internet
+670,M,Student,1972,028-439-1821,Outdoor advertising
+671,F,Self-employed,1966,099-885-3186,Outdoor advertising
+672,F,Civil servant,1968,085-178-7338,Outdoor advertising
+673,M,Civil servant,1966,093-597-1512,Outdoor advertising
+674,M,Civil servant,1984,031-992-4591,Incidental
+675,M,Student,1979,031-168-3153,Outdoor advertising
+676,M,Clerk,1969,087-783-2934,Friends
+677,M,Civil servant,1964,092-398-1547,Radio
+678,M,Clerk,1985,033-912-1819,Friends
+679,M,Self-employed,1966,015-451-3428,Internet
+680,F,Clerk,1985,012-774-1432,Internet
+681,M,Self-employed,1989,083-851-9277,Outdoor advertising
+682,F,Clerk,1970,015-979-1689,Incidental
+683,F,Unemployed,1963,098-486-9552,Outdoor advertising
+684,F,Clerk,1977,036-796-9842,Outdoor advertising
+685,F,Clerk,1989,096-253-1177,Radio
+686,F,Civil servant,1970,091-937-5821,Internet
+687,M,Student,1966,083-658-4595,Outdoor advertising
+688,F,Clerk,1969,062-219-8288,Internet
+689,F,Student,1980,014-333-2495,Outdoor advertising
+690,F,Student,1992,028-432-8423,Friends
+691,F,Clerk,1976,066-451-2882,Radio
+692,F,Self-employed,1977,045-872-7424,Outdoor advertising
+693,F,Civil servant,1992,046-285-2217,Outdoor advertising
+694,M,Civil servant,1985,093-325-9986,Outdoor advertising
+695,F,Clerk,1976,045-846-1558,Friends
+696,F,Clerk,1977,084-319-3887,Internet
+697,F,Student,1975,062-673-1957,Internet
+698,F,Civil servant,1964,026-182-4672,Outdoor advertising
+699,M,Unemployed,1983,047-511-7615,Friends
+700,F,Self-employed,1972,067-931-6477,Outdoor advertising
+701,M,Self-employed,1982,091-313-8982,Incidental
+702,F,Clerk,1975,028-424-3693,Friends
+703,F,Civil servant,1981,059-691-3433,Outdoor advertising
+704,M,Unemployed,1986,032-465-2647,Friends
+705,M,Clerk,1974,031-695-7736,Outdoor advertising
+706,M,Civil servant,1982,058-725-6782,Radio
+707,F,Self-employed,1990,053-714-6413,Outdoor advertising
+708,F,Self-employed,1981,029-212-7731,Radio
+709,M,Self-employed,1977,092-716-4642,Outdoor advertising
+710,M,Clerk,1984,061-781-8947,Incidental
+711,M,Clerk,1991,015-358-5425,Internet
+712,F,Civil servant,1978,074-298-8896,Outdoor advertising
+713,F,Student,1988,075-771-5537,Outdoor advertising
+714,F,Clerk,1988,054-476-6432,Outdoor advertising
+715,M,Clerk,1970,044-349-4344,Outdoor advertising
+716,F,Student,1973,013-437-3313,Friends
+717,M,Student,1992,013-999-2446,Outdoor advertising
+718,F,Student,1991,076-367-6637,Outdoor advertising
+719,M,Clerk,1989,083-616-4635,Outdoor advertising
+720,F,Self-employed,1988,039-958-1339,Outdoor advertising
+721,M,Self-employed,1989,058-793-8765,Internet
+722,F,Clerk,1962,032-447-8548,Internet
+723,M,Clerk,1979,017-762-3316,Internet
+724,M,Student,1970,064-684-5274,Friends
+725,M,Student,1962,091-864-9151,Internet
+726,F,Clerk,1987,085-798-4858,Incidental
+727,F,Self-employed,1972,048-958-2419,Outdoor advertising
+728,F,Clerk,1990,028-191-9279,Internet
+729,F,Clerk,1978,091-938-6117,Outdoor advertising
+730,M,Civil servant,1975,088-798-1471,Friends
+731,M,Student,1977,072-444-4857,Internet
+732,M,Clerk,1973,053-447-3497,Outdoor advertising
+733,F,Self-employed,1960,079-829-5581,Radio
+734,F,Clerk,1972,053-618-4552,Incidental
+735,M,Clerk,1977,032-358-9867,Internet
+736,M,Clerk,1982,078-123-4685,Internet
+737,M,Clerk,1989,036-514-3549,Internet
+738,F,Clerk,1989,081-322-6774,Internet
+739,F,Civil servant,1962,076-926-7494,Friends
+740,M,Civil servant,1965,089-332-4732,Outdoor advertising
+741,F,Clerk,1988,042-811-2169,Friends
+742,F,Clerk,1991,021-881-6923,Internet
+743,M,Unemployed,1979,075-448-3278,Outdoor advertising
+744,F,Unemployed,1978,089-721-6943,Incidental
+745,M,Clerk,1983,023-326-4945,Outdoor advertising
+746,M,Student,1977,096-787-1865,Friends
+747,F,Self-employed,1968,025-938-7442,Outdoor advertising
+748,F,Civil servant,1978,061-312-8492,Incidental
+749,F,Clerk,1972,041-124-3941,Outdoor advertising
+750,F,Clerk,1977,011-834-2561,Internet
+751,F,Clerk,1965,062-922-6868,Outdoor advertising
+752,F,Clerk,1980,059-341-9742,Outdoor advertising
+753,M,Clerk,1968,065-946-5423,Friends
+754,M,Student,1968,088-299-6687,Outdoor advertising
+755,M,Clerk,1968,035-319-8281,Outdoor advertising
+756,M,Student,1986,081-342-4812,Internet
+757,F,Clerk,1961,042-945-2913,Outdoor advertising
+758,F,Student,1981,053-714-6282,Friends
+759,F,Civil servant,1966,029-729-1182,Outdoor advertising
+760,F,Unemployed,1964,041-157-2963,Outdoor advertising
+761,F,Self-employed,1964,016-637-4269,Outdoor advertising
+762,M,Student,1974,097-516-4996,Radio
+763,F,Student,1983,045-678-5648,Incidental
+764,M,Self-employed,1970,016-586-8234,Incidental
+765,F,Clerk,1981,053-268-8416,Internet
+766,F,Self-employed,1987,041-349-2786,Outdoor advertising
+767,M,Unemployed,1990,056-955-1198,Outdoor advertising
+768,F,Unemployed,1978,073-436-3726,Outdoor advertising
+769,F,Self-employed,1992,037-218-7197,Internet
+770,M,Student,1961,033-365-1816,Outdoor advertising
+771,F,Clerk,1966,048-853-8988,Friends
+772,F,Student,1986,045-988-8162,Outdoor advertising
+773,M,Self-employed,1975,043-221-9472,Internet
+774,F,Student,1974,075-731-1176,Friends
+775,F,Civil servant,1981,019-652-8556,Outdoor advertising
+776,F,Clerk,1985,061-345-1677,Internet
+777,F,Clerk,1968,015-992-6998,Outdoor advertising
+778,M,Student,1971,016-113-7456,Outdoor advertising
+779,M,Clerk,1990,042-638-9487,Outdoor advertising
+780,M,Student,1974,087-373-2299,Internet
+781,M,Unemployed,1969,078-355-3456,Outdoor advertising
+782,M,Self-employed,1971,011-724-6443,Internet
+783,F,Clerk,1967,071-628-2853,Outdoor advertising
+784,F,Student,1987,073-434-8493,Outdoor advertising
+785,F,Self-employed,1963,028-929-6535,Outdoor advertising
+786,F,Civil servant,1981,081-138-4898,Radio
+787,F,Self-employed,1967,046-436-9842,Outdoor advertising
+788,F,Unemployed,1977,046-435-4279,Incidental
+789,M,Civil servant,1977,027-722-2388,Friends
+790,F,Civil servant,1976,087-148-2443,Friends
+791,F,Clerk,1990,031-913-5694,Internet
+792,F,Student,1975,052-528-2451,Outdoor advertising
+793,F,Student,1970,072-347-9694,Outdoor advertising
+794,M,Self-employed,1961,049-333-9859,Internet
+795,M,Unemployed,1974,015-993-6319,Internet
+796,F,Clerk,1963,048-145-2357,Radio
+797,M,Clerk,1961,042-217-9423,Outdoor advertising
+798,M,Clerk,1975,091-687-3128,Incidental
+799,F,Student,1965,046-786-8572,Radio
+800,F,Civil servant,1985,099-795-2769,Outdoor advertising
+801,F,Student,1961,041-428-1422,Radio
+802,M,Unemployed,1965,026-777-9858,Outdoor advertising
+803,F,Clerk,1991,072-531-5315,Friends
+804,F,Clerk,1978,037-811-8629,Outdoor advertising
+805,F,Unemployed,1980,062-663-4112,Outdoor advertising
+806,M,Self-employed,1974,037-441-8815,Outdoor advertising
+807,M,Civil servant,1986,011-828-1347,Outdoor advertising
+808,M,Clerk,1964,041-122-1574,Internet
+809,M,Student,1964,083-422-6932,Internet
+810,F,Clerk,1975,042-792-9223,Outdoor advertising
+811,M,Clerk,1980,053-788-9142,Radio
+812,M,Self-employed,1977,039-878-6396,Internet
+813,M,Student,1962,025-147-8747,Outdoor advertising
+814,M,Student,1969,086-254-2173,Internet
+815,F,Self-employed,1975,037-455-1775,Incidental
+816,F,Student,1969,018-694-2977,Outdoor advertising
+817,F,Unemployed,1981,076-885-2115,Outdoor advertising
+818,F,Civil servant,1992,091-668-9654,Incidental
+819,M,Unemployed,1979,082-556-9167,Outdoor advertising
+820,M,Clerk,1986,061-555-4989,Outdoor advertising
+821,M,Clerk,1961,073-545-2248,Incidental
+822,M,Clerk,1970,092-836-8391,Radio
+823,F,Unemployed,1988,086-661-8799,Outdoor advertising
+824,F,Clerk,1969,028-428-7152,Outdoor advertising
+825,M,Clerk,1976,074-473-2385,Friends
+826,F,Student,1987,061-559-3923,Outdoor advertising
+827,F,Clerk,1986,042-135-8383,Internet
+828,F,Clerk,1979,037-159-7593,Radio
+829,M,Student,1990,055-333-4132,Outdoor advertising
+830,M,Self-employed,1973,086-418-1399,Outdoor advertising
+831,F,Self-employed,1991,086-437-3212,Friends
+832,F,Self-employed,1983,039-779-8446,Outdoor advertising
+833,F,Unemployed,1981,075-714-5858,Incidental
+834,M,Clerk,1972,097-544-8172,Outdoor advertising
+835,M,Clerk,1981,012-399-8831,Outdoor advertising
+836,F,Self-employed,1986,057-632-9782,Internet
+837,M,Self-employed,1965,077-982-1815,Incidental
+838,M,Student,1967,015-638-1151,Outdoor advertising
+839,F,Student,1983,065-842-6837,Outdoor advertising
+840,F,Student,1991,039-941-7571,Friends
+841,F,Self-employed,1988,099-612-3918,Outdoor advertising
+842,F,Clerk,1983,083-134-8495,Friends
+843,M,Unemployed,1977,052-322-9664,Outdoor advertising
+844,F,Unemployed,1980,087-616-6385,Outdoor advertising
+845,M,Clerk,1963,076-769-7469,Friends
+846,F,Clerk,1986,036-583-5122,Outdoor advertising
+847,F,Clerk,1970,077-766-1548,Outdoor advertising
+848,F,Self-employed,1970,085-659-4329,Internet
+849,M,Clerk,1985,062-643-8499,Outdoor advertising
+850,M,Civil servant,1974,068-567-7145,Internet
+851,F,Unemployed,1961,071-872-8468,Internet
+852,M,Student,1970,026-896-9993,Friends
+853,F,Self-employed,1984,078-416-5727,Internet
+854,M,Civil servant,1960,053-241-9898,Friends
+855,F,Civil servant,1979,071-915-1175,Friends
+856,F,Student,1971,088-168-7452,Outdoor advertising
+857,F,Self-employed,1991,013-661-8652,Outdoor advertising
+858,F,Clerk,1985,079-122-5294,Outdoor advertising
+859,M,Self-employed,1965,063-558-2663,Incidental
+860,F,Civil servant,1989,047-584-4166,Outdoor advertising
+861,F,Clerk,1964,022-235-7966,Friends
+862,F,Clerk,1985,089-234-9165,Outdoor advertising
+863,M,Clerk,1968,043-586-5757,Outdoor advertising
+864,F,Unemployed,1971,027-537-9137,Outdoor advertising
+865,M,Clerk,1964,074-377-6411,Internet
+866,M,Student,1982,033-257-5449,Friends
+867,M,Student,1987,063-236-2764,Friends
+868,F,Clerk,1973,051-174-8323,Friends
+869,F,Unemployed,1976,086-464-5884,Friends
+870,F,Student,1965,033-163-5979,Friends
+871,F,Unemployed,1987,038-892-8859,Internet
+872,F,Self-employed,1978,052-183-8669,Internet
+873,M,Clerk,1969,014-414-6656,Outdoor advertising
+874,M,Student,1961,012-151-1414,Outdoor advertising
+875,M,Clerk,1973,025-115-2842,Friends
+876,M,Student,1964,062-769-6722,Internet
+877,F,Unemployed,1977,062-614-3475,Outdoor advertising
+878,F,Self-employed,1964,076-589-5897,Friends
+879,F,Clerk,1989,092-822-8664,Outdoor advertising
+880,F,Student,1989,016-225-2183,Outdoor advertising
+881,F,Student,1963,071-967-8581,Friends
+882,M,Civil servant,1987,064-753-3784,Outdoor advertising
+883,M,Clerk,1978,069-473-9173,Radio
+884,M,Student,1976,092-571-1138,Internet
+885,F,Clerk,1963,057-425-6932,Friends
+886,F,Self-employed,1961,076-255-9348,Incidental
+887,M,Clerk,1980,071-573-2333,Outdoor advertising
+888,F,Clerk,1961,087-892-6694,Friends
+889,F,Clerk,1989,065-312-1798,Internet
+890,F,Student,1964,015-421-9758,Outdoor advertising
+891,F,Self-employed,1974,057-213-6191,Outdoor advertising
+892,F,Student,1961,077-342-6134,Outdoor advertising
+893,M,Clerk,1972,065-252-8871,Internet
+894,F,Civil servant,1972,073-347-1199,Friends
+895,M,Clerk,1985,021-873-9626,Outdoor advertising
+896,M,Student,1980,044-121-8558,Radio
+897,M,Student,1983,064-769-2836,Friends
+898,F,Clerk,1986,028-332-1862,Internet
+899,F,Unemployed,1975,068-399-5872,Internet
+900,M,Clerk,1970,045-371-3776,Outdoor advertising
+901,F,Unemployed,1974,025-679-8967,Outdoor advertising
+902,F,Clerk,1991,065-648-1975,Incidental
+903,F,Self-employed,1972,083-738-4381,Friends
+904,F,Clerk,1964,075-275-4977,Incidental
+905,F,Unemployed,1978,082-986-3366,Internet
+906,M,Clerk,1989,034-956-2381,Friends
+907,M,Clerk,1991,067-859-6971,Outdoor advertising
+908,M,Student,1977,092-788-8147,Outdoor advertising
+909,F,Clerk,1990,042-885-9382,Internet
+910,M,Clerk,1970,067-124-1428,Outdoor advertising
+911,M,Clerk,1981,073-599-7327,Outdoor advertising
+912,M,Clerk,1974,024-248-7895,Friends
+913,F,Self-employed,1982,064-534-4517,Internet
+914,F,Clerk,1966,059-373-7351,Friends
+915,F,Clerk,1972,076-724-2774,Incidental
+916,M,Clerk,1964,086-294-1247,Internet
+917,F,Student,1988,035-825-6752,Outdoor advertising
+918,F,Self-employed,1968,042-743-6329,Outdoor advertising
+919,F,Student,1984,055-546-1182,Friends
+920,M,Self-employed,1980,026-376-4573,Incidental
+921,M,Clerk,1978,031-953-5868,Outdoor advertising
+922,M,Self-employed,1979,093-127-2877,Friends
+923,F,Civil servant,1985,068-718-2949,Internet
+924,F,Unemployed,1984,087-899-4817,Outdoor advertising
+925,M,Civil servant,1962,079-347-4319,Incidental
+926,F,Clerk,1965,083-788-6358,Outdoor advertising
+927,F,Clerk,1963,077-615-9849,Outdoor advertising
+928,F,Civil servant,1972,034-222-9549,Radio
+929,F,Unemployed,1984,011-223-3346,Outdoor advertising
+930,F,Clerk,1980,052-376-2421,Outdoor advertising
+931,M,Student,1972,061-487-8578,Outdoor advertising
+932,F,Clerk,1964,022-769-4958,Friends
+933,F,Unemployed,1968,039-931-1831,Friends
+934,F,Unemployed,1970,064-132-4761,Friends
+935,F,Student,1966,081-354-2441,Outdoor advertising
+936,F,Civil servant,1974,093-621-8196,Friends
+937,F,Self-employed,1970,028-625-9582,Internet
+938,M,Unemployed,1981,017-256-6292,Outdoor advertising
+939,F,Clerk,1985,043-737-1384,Internet
+940,M,Clerk,1960,081-958-8346,Internet
+941,M,Clerk,1990,041-533-6224,Friends
+942,F,Student,1971,097-485-1961,Friends
+943,F,Self-employed,1966,018-537-7438,Outdoor advertising
+944,F,Clerk,1974,064-937-7734,Incidental
+945,F,Unemployed,1970,035-478-2927,Outdoor advertising
+946,M,Self-employed,1969,019-644-9359,Outdoor advertising
+947,F,Student,1987,019-221-7637,Internet
+948,F,Self-employed,1981,028-479-9718,Outdoor advertising
+949,M,Unemployed,1963,094-776-3967,Internet
+950,M,Clerk,1960,019-588-7537,Radio
+951,F,Civil servant,1963,025-855-4581,Friends
+952,F,Clerk,1984,046-449-9855,Internet
+953,M,Self-employed,1979,041-314-5422,Radio
+954,F,Self-employed,1967,083-795-4794,Incidental
+955,F,Civil servant,1986,088-651-6521,Outdoor advertising
+956,F,Civil servant,1977,066-875-7586,Outdoor advertising
+957,F,Civil servant,1972,087-686-2825,Radio
+958,M,Clerk,1969,033-769-8486,Outdoor advertising
+959,F,Student,1981,017-433-4437,Outdoor advertising
+960,F,Self-employed,1975,024-327-9498,Friends
+961,F,Clerk,1992,029-851-5671,Internet
+962,F,Student,1985,092-976-2781,Outdoor advertising
+963,F,Self-employed,1981,048-793-1711,Friends
+964,F,Student,1991,051-983-4291,Internet
+965,F,Unemployed,1980,069-182-4754,Outdoor advertising
+966,F,Unemployed,1972,029-765-6773,Outdoor advertising
+967,F,Self-employed,1981,043-774-8817,Incidental
+968,M,Self-employed,1967,028-254-6294,Outdoor advertising
+969,F,Self-employed,1972,048-152-9234,Outdoor advertising
+970,F,Student,1987,067-399-8258,Radio
+971,M,Clerk,1973,091-763-6964,Outdoor advertising
+972,F,Self-employed,1983,072-766-9443,Friends
+973,M,Unemployed,1979,092-512-7677,Incidental
+974,F,Self-employed,1960,094-223-5118,Outdoor advertising
+975,M,Clerk,1989,066-238-3692,Outdoor advertising
+976,M,Civil servant,1976,054-566-5621,Internet
+977,F,Student,1976,035-261-2117,Friends
+978,F,Unemployed,1980,058-459-6121,Friends
+979,M,Clerk,1973,074-987-7662,Incidental
+980,M,Clerk,1967,064-515-9776,Incidental
+981,M,Clerk,1968,044-649-9649,Outdoor advertising
+982,M,Civil servant,1962,074-819-8222,Internet
+983,F,Student,1961,054-339-7384,Internet
+984,F,Self-employed,1964,045-134-8184,Internet
+985,F,Civil servant,1988,081-315-3816,Incidental
+986,M,Clerk,1966,088-223-2161,Friends
+987,F,Student,1963,075-926-7683,Radio
+988,M,Student,1960,086-724-5743,Outdoor advertising
+989,F,Clerk,1982,027-967-1833,Outdoor advertising
+990,M,Student,1989,032-914-8129,Incidental
+991,F,Self-employed,1962,076-223-9414,Outdoor advertising
+992,F,Self-employed,1987,077-837-4712,Outdoor advertising
+993,F,Self-employed,1982,065-657-6945,Internet
+994,M,Student,1963,046-196-4432,Internet
+995,F,Self-employed,1960,094-546-5548,Friends
+996,F,Clerk,1966,088-916-1982,Incidental
+997,M,Unemployed,1980,085-933-7267,Outdoor advertising
+998,F,Clerk,1961,037-153-4114,Friends
+999,F,Clerk,1962,039-871-3699,Friends
+1000,M,Clerk,1991,044-724-5667,Radio
+1001,M,Student,1971,082-932-4898,Outdoor advertising
+1002,F,Clerk,1981,043-534-7835,Internet
+1003,F,Student,1978,018-129-5512,Outdoor advertising
+1004,F,Unemployed,1991,061-844-6358,Outdoor advertising
+1005,M,Clerk,1968,019-479-6977,Internet
+1006,M,Student,1991,044-642-1237,Outdoor advertising
+1007,F,Clerk,1977,059-768-2663,Friends
+1008,F,Civil servant,1982,022-693-3537,Friends
+1009,F,Clerk,1989,084-536-9356,Outdoor advertising
+1010,M,Clerk,1970,021-859-7289,Friends
+1011,M,Clerk,1975,049-612-9623,Outdoor advertising
+1012,M,Clerk,1963,075-244-3876,Incidental
+1013,F,Clerk,1970,045-853-7474,Incidental
+1014,M,Student,1967,095-985-6217,Incidental
+1015,M,Clerk,1970,094-599-2319,Outdoor advertising
+1016,M,Clerk,1987,064-195-5337,Friends
+1017,F,Self-employed,1992,094-314-5817,Outdoor advertising
+1018,F,Unemployed,1968,072-263-5315,Friends
+1019,F,Unemployed,1988,053-574-5961,Outdoor advertising
+1020,F,Student,1962,053-717-4286,Incidental
+1021,F,Clerk,1990,057-782-6332,Radio
+1022,M,Self-employed,1979,025-281-3431,Friends
+1023,F,Clerk,1960,088-682-2785,Outdoor advertising
+1024,F,Self-employed,1961,036-612-3279,Internet
+1025,M,Clerk,1979,088-156-5826,Internet
+1026,F,Self-employed,1989,065-836-2916,Outdoor advertising
+1027,F,Clerk,1986,044-163-8419,Outdoor advertising
+1028,M,Student,1963,096-312-6749,Internet
+1029,F,Clerk,1982,028-748-6865,Outdoor advertising
+1030,M,Self-employed,1982,083-961-8536,Outdoor advertising
+1031,M,Self-employed,1985,051-569-6872,Outdoor advertising
+1032,F,Clerk,1978,079-519-2693,Friends
+1033,F,Civil servant,1965,038-712-2712,Radio
+1034,F,Clerk,1970,062-454-9297,Outdoor advertising
+1035,M,Clerk,1960,034-268-6441,Radio
+1036,M,Student,1972,045-859-1445,Friends
+1037,F,Student,1989,031-454-9624,Incidental
+1038,M,Clerk,1980,072-723-7359,Outdoor advertising
+1039,F,Clerk,1972,029-685-4669,Outdoor advertising
+1040,M,Self-employed,1992,046-878-1779,Incidental
+1041,F,Student,1970,075-718-6971,Radio
+1042,M,Student,1976,037-868-1762,Outdoor advertising
+1043,F,Unemployed,1981,055-959-3731,Radio
+1044,F,Civil servant,1982,022-437-9561,Radio
+1045,F,Clerk,1992,038-646-9413,Outdoor advertising
+1046,F,Self-employed,1973,099-181-6636,Outdoor advertising
+1047,F,Unemployed,1991,044-356-6478,Outdoor advertising
+1048,F,Self-employed,1977,083-736-6979,Incidental
+1049,M,Student,1965,092-486-5128,Friends
+1050,F,Unemployed,1970,078-937-2413,Incidental
+1051,M,Student,1979,034-287-7366,Internet
+1052,M,Clerk,1968,032-799-3767,Outdoor advertising
+1053,F,Clerk,1975,037-312-6768,Friends
+1054,M,Student,1960,055-936-6356,Outdoor advertising
+1055,M,Unemployed,1973,032-197-2398,Incidental
+1056,F,Clerk,1971,097-377-7122,Friends
+1057,F,Student,1960,046-965-7455,Friends
+1058,F,Student,1960,031-469-6843,Internet
+1059,F,Civil servant,1983,046-185-3291,Internet
+1060,F,Clerk,1989,095-884-8514,Friends
+1061,M,Student,1986,016-418-8749,Incidental
+1062,F,Self-employed,1973,044-762-2377,Outdoor advertising
+1063,M,Student,1961,019-523-7125,Friends
+1064,F,Clerk,1964,051-991-1846,Outdoor advertising
+1065,M,Civil servant,1969,086-993-2178,Friends
+1066,F,Clerk,1992,042-871-5892,Internet
+1067,M,Self-employed,1960,016-545-8965,Incidental
+1068,F,Self-employed,1989,042-623-3845,Outdoor advertising
+1069,M,Self-employed,1992,045-449-9225,Radio
+1070,F,Clerk,1981,096-831-5791,Radio
+1071,M,Unemployed,1990,059-554-5953,Internet
+1072,M,Self-employed,1978,022-778-9776,Friends
+1073,M,Clerk,1970,038-645-3524,Outdoor advertising
+1074,F,Clerk,1976,035-447-8592,Outdoor advertising
+1075,F,Self-employed,1961,082-182-3725,Outdoor advertising
+1076,M,Clerk,1971,025-286-5716,Internet
+1077,F,Self-employed,1990,055-299-3275,Friends
+1078,F,Civil servant,1960,063-697-4955,Internet
+1079,F,Student,1992,057-335-1485,Internet
+1080,F,Clerk,1974,065-724-2232,Outdoor advertising
+1081,F,Civil servant,1971,085-793-7426,Outdoor advertising
+1082,F,Clerk,1961,047-638-8842,Outdoor advertising
+1083,M,Clerk,1962,046-993-5556,Internet
+1084,F,Student,1960,087-918-3984,Outdoor advertising
+1085,F,Self-employed,1985,038-734-5333,Friends
+1086,F,Clerk,1985,021-919-4686,Outdoor advertising
+1087,M,Civil servant,1990,055-323-4292,Outdoor advertising
+1088,F,Clerk,1992,095-426-6328,Friends
+1089,F,Civil servant,1973,068-751-1171,Friends
+1090,F,Clerk,1966,086-231-2652,Outdoor advertising
+1091,F,Self-employed,1969,075-654-8351,Friends
+1092,F,Self-employed,1965,044-249-6844,Outdoor advertising
+1093,F,Self-employed,1963,092-389-6822,Incidental
+1094,M,Student,1991,091-394-4984,Friends
+1095,M,Unemployed,1970,039-175-4161,Incidental
+1096,F,Unemployed,1974,091-183-3525,Internet
+1097,F,Clerk,1972,049-343-3998,Friends
+1098,F,Student,1991,042-275-9433,Internet
+1099,M,Unemployed,1980,055-432-2658,Friends
+1100,F,Clerk,1989,039-495-4574,Outdoor advertising
+1101,F,Clerk,1967,044-838-9391,Radio
+1102,F,Self-employed,1988,075-384-4962,Outdoor advertising
+1103,F,Self-employed,1978,096-425-6443,Internet
+1104,M,Clerk,1980,089-335-4471,Outdoor advertising
+1105,F,Student,1985,056-117-8383,Outdoor advertising
+1106,F,Self-employed,1964,022-428-6353,Friends
+1107,M,Clerk,1977,043-659-4931,Friends
+1108,F,Clerk,1990,084-847-5459,Incidental
+1109,F,Civil servant,1960,045-769-1353,Internet
+1110,M,Student,1979,029-779-7996,Internet
+1111,M,Civil servant,1967,012-568-1954,Internet
+1112,F,Clerk,1980,058-325-4756,Radio
+1113,F,Self-employed,1976,083-684-7271,Internet
+1114,F,Clerk,1970,097-449-1548,Incidental
+1115,F,Student,1961,099-268-4785,Internet
+1116,M,Clerk,1977,029-766-1676,Outdoor advertising
+1117,M,Unemployed,1992,033-949-6661,Incidental
+1118,F,Clerk,1973,067-636-8595,Outdoor advertising
+1119,F,Unemployed,1975,014-731-3522,Incidental
+1120,M,Unemployed,1963,036-974-6393,Friends
+1121,M,Unemployed,1979,093-318-4729,Outdoor advertising
+1122,F,Clerk,1973,051-838-5551,Outdoor advertising
+1123,M,Student,1974,044-279-2355,Outdoor advertising
+1124,M,Student,1960,019-868-9619,Incidental
+1125,F,Unemployed,1970,077-825-2951,Friends
+1126,M,Clerk,1967,036-769-7221,Friends
+1127,M,Clerk,1962,038-674-4357,Outdoor advertising
+1128,F,Self-employed,1968,017-156-7369,Friends
+1129,M,Clerk,1971,048-532-9946,Outdoor advertising
+1130,F,Student,1969,014-149-5752,Outdoor advertising
+1131,M,Clerk,1963,087-471-3446,Outdoor advertising
+1132,F,Civil servant,1976,099-636-9754,Internet
+1133,M,Student,1975,088-717-3367,Incidental
+1134,F,Clerk,1965,093-579-3961,Outdoor advertising
+1135,F,Civil servant,1974,048-444-8144,Internet
+1136,F,Student,1975,055-183-8666,Outdoor advertising
+1137,F,Clerk,1974,011-882-8488,Radio
+1138,F,Self-employed,1969,067-673-7943,Radio
+1139,M,Student,1984,015-123-4975,Outdoor advertising
+1140,F,Student,1987,052-291-2356,Outdoor advertising
+1141,M,Clerk,1986,057-115-4444,Incidental
+1142,F,Civil servant,1986,022-326-3534,Outdoor advertising
+1143,F,Self-employed,1982,051-212-2437,Radio
+1144,F,Student,1976,018-417-5172,Internet
+1145,F,Clerk,1962,059-336-4854,Internet
+1146,M,Self-employed,1966,044-175-9952,Outdoor advertising
+1147,M,Self-employed,1962,082-867-5971,Radio
+1148,F,Student,1960,089-975-4233,Internet
+1149,M,Clerk,1980,028-846-9663,Friends
+1150,F,Student,1981,084-911-8678,Internet
+1151,F,Clerk,1971,064-962-6115,Outdoor advertising
+1152,F,Self-employed,1974,013-364-7571,Internet
+1153,M,Clerk,1976,052-878-4423,Outdoor advertising
+1154,M,Unemployed,1960,024-634-9284,Incidental
+1155,M,Clerk,1992,046-384-9482,Outdoor advertising
+1156,M,Unemployed,1969,012-393-3182,Outdoor advertising
+1157,F,Civil servant,1974,057-961-7773,Outdoor advertising
+1158,M,Unemployed,1965,015-364-2213,Friends
+1159,M,Student,1990,015-953-2228,Outdoor advertising
+1160,F,Student,1971,041-325-3957,Outdoor advertising
+1161,F,Self-employed,1979,021-931-2643,Outdoor advertising
+1162,F,Clerk,1986,068-277-7835,Internet
+1163,M,Self-employed,1981,075-859-5952,Outdoor advertising
+1164,M,Student,1966,044-992-7819,Outdoor advertising
+1165,F,Student,1988,029-848-5458,Friends
+1166,M,Unemployed,1972,059-116-8399,Incidental
+1167,M,Unemployed,1968,092-818-6795,Internet
+1168,M,Self-employed,1983,086-337-9971,Outdoor advertising
+1169,F,Clerk,1985,065-631-5138,Friends
+1170,F,Clerk,1987,065-433-8211,Radio
+1171,F,Clerk,1962,095-954-8118,Internet
+1172,F,Student,1965,054-332-4588,Friends
+1173,F,Civil servant,1989,055-514-1388,Incidental
+1174,M,Civil servant,1963,083-174-9179,Internet
+1175,M,Civil servant,1984,014-777-9994,Internet
+1176,M,Student,1987,073-578-2421,Internet
+1177,F,Student,1960,017-135-4242,Outdoor advertising
+1178,M,Clerk,1975,011-831-6116,Outdoor advertising
+1179,M,Clerk,1985,048-938-1913,Outdoor advertising
+1180,F,Student,1979,095-791-5615,Outdoor advertising
+1181,F,Clerk,1983,082-282-3742,Friends
+1182,M,Student,1963,085-967-8659,Outdoor advertising
+1183,M,Clerk,1965,093-965-6725,Friends
+1184,F,Civil servant,1969,063-317-2485,Outdoor advertising
+1185,M,Clerk,1988,073-948-6376,Internet
+1186,F,Unemployed,1965,083-743-1174,Internet
+1187,F,Student,1965,036-852-8428,Outdoor advertising
+1188,F,Clerk,1974,057-772-9439,Incidental
+1189,M,Civil servant,1990,013-399-7525,Friends
+1190,F,Self-employed,1983,035-228-9862,Outdoor advertising
+1191,F,Clerk,1977,022-658-6568,Friends
+1192,M,Civil servant,1988,057-611-6217,Friends
+1193,F,Clerk,1969,097-852-2162,Friends
+1194,F,Clerk,1981,015-478-9959,Internet
+1195,F,Student,1986,042-373-1212,Outdoor advertising
+1196,M,Clerk,1986,037-442-8645,Internet
+1197,M,Unemployed,1960,064-966-1628,Outdoor advertising
+1198,M,Civil servant,1979,016-931-5722,Incidental
+1199,M,Self-employed,1962,054-323-4922,Outdoor advertising
+1200,M,Clerk,1962,084-264-8364,Friends
+1201,M,Self-employed,1989,096-881-1228,Internet
+1202,F,Student,1990,072-856-7618,Outdoor advertising
+1203,M,Civil servant,1960,019-326-3274,Incidental
+1204,F,Clerk,1965,019-412-2666,Internet
+1205,F,Student,1962,067-349-8339,Friends
+1206,M,Clerk,1973,086-722-9829,Friends
+1207,M,Civil servant,1984,081-555-5644,Friends
+1208,F,Clerk,1990,051-682-4976,Outdoor advertising
+1209,M,Self-employed,1973,041-587-1118,Radio
+1210,M,Self-employed,1963,048-627-9943,Radio
+1211,F,Clerk,1986,045-764-9744,Outdoor advertising
+1212,M,Clerk,1965,096-176-1699,Outdoor advertising
+1213,F,Self-employed,1962,027-197-6197,Friends
+1214,F,Self-employed,1982,087-665-8571,Incidental
+1215,F,Self-employed,1990,072-473-9991,Outdoor advertising
+1216,F,Clerk,1980,061-197-4341,Outdoor advertising
+1217,M,Clerk,1991,099-577-1485,Friends
+1218,F,Self-employed,1975,035-893-3436,Outdoor advertising
+1219,F,Self-employed,1992,066-929-5796,Outdoor advertising
+1220,F,Civil servant,1992,014-779-4415,Outdoor advertising
+1221,F,Self-employed,1960,051-385-2555,Outdoor advertising
+1222,F,Student,1989,052-939-3157,Friends
+1223,F,Student,1964,043-947-2919,Friends
+1224,F,Self-employed,1987,074-349-6168,Outdoor advertising
+1225,M,Self-employed,1980,025-726-8296,Friends
+1226,M,Clerk,1983,089-951-5778,Outdoor advertising
+1227,M,Self-employed,1961,082-883-5584,Friends
+1228,F,Clerk,1961,022-736-2135,Internet
+1229,M,Student,1964,053-771-1241,Outdoor advertising
+1230,F,Clerk,1971,025-363-2642,Radio
+1231,F,Unemployed,1978,026-298-4551,Radio
+1232,M,Student,1977,068-486-6561,Outdoor advertising
+1233,F,Clerk,1964,012-138-2695,Outdoor advertising
+1234,M,Student,1968,041-577-1627,Radio
+1235,M,Unemployed,1970,082-188-8241,Outdoor advertising
+1236,M,Self-employed,1966,069-423-1621,Radio
+1237,F,Clerk,1979,069-685-2465,Outdoor advertising
+1238,F,Unemployed,1984,029-783-1658,Friends
+1239,M,Clerk,1960,099-121-6868,Outdoor advertising
+1240,F,Self-employed,1967,035-531-4235,Radio
+1241,M,Clerk,1973,069-893-7945,Friends
+1242,M,Clerk,1966,087-112-2692,Internet
+1243,M,Self-employed,1979,093-135-1183,Outdoor advertising
+1244,M,Clerk,1965,077-768-9579,Internet
+1245,F,Clerk,1965,056-333-8344,Friends
+1246,F,Self-employed,1990,043-693-2998,Internet
+1247,F,Self-employed,1968,079-672-4187,Radio
+1248,F,Unemployed,1960,054-564-3649,Outdoor advertising
+1249,F,Student,1981,087-848-6597,Outdoor advertising
+1250,M,Clerk,1979,085-535-5188,Outdoor advertising
+1251,F,Self-employed,1964,044-662-2667,Outdoor advertising
+1252,F,Student,1978,094-921-5952,Friends
+1253,F,Clerk,1977,077-145-4814,Internet
+1254,M,Self-employed,1991,081-479-6514,Incidental
+1255,F,Civil servant,1982,073-662-7791,Outdoor advertising
+1256,F,Clerk,1976,023-461-3233,Internet
+1257,F,Self-employed,1976,056-661-9559,Outdoor advertising
+1258,F,Civil servant,1962,042-468-8688,Radio
+1259,F,Clerk,1982,052-824-8153,Outdoor advertising
+1260,M,Clerk,1991,081-729-8558,Radio
+1261,M,Student,1980,078-184-6424,Radio
+1262,F,Clerk,1976,013-156-3592,Outdoor advertising
+1263,F,Clerk,1967,058-126-7593,Friends
+1264,F,Clerk,1983,065-456-2743,Internet
+1265,F,Self-employed,1974,061-272-4218,Radio
+1266,F,Self-employed,1974,013-734-7737,Radio
+1267,M,Self-employed,1988,078-835-5763,Outdoor advertising
+1268,M,Self-employed,1976,088-215-6185,Internet
+1269,F,Student,1987,081-829-3668,Outdoor advertising
+1270,F,Civil servant,1984,035-846-9457,Outdoor advertising
+1271,F,Clerk,1973,012-471-7299,Friends
+1272,M,Clerk,1970,029-949-6933,Outdoor advertising
+1273,F,Clerk,1984,067-124-1734,Outdoor advertising
+1274,F,Clerk,1962,091-784-9814,Outdoor advertising
+1275,M,Clerk,1971,016-684-2563,Friends
+1276,M,Clerk,1966,049-464-2465,Internet
+1277,M,Clerk,1966,031-879-3481,Friends
+1278,F,Civil servant,1968,055-872-2622,Internet
